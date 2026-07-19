@@ -1,0 +1,974 @@
+Hey guys, data structures and
+algorithms.
+What is data structures? Why data
+structures? How to get started in data
+structures?
+After this video, data stctures and
+algorithms
+data
+Not
+first. What is data? Any piece of
+information you have is called data.
+For example,
+1 2 3 4
+1 2 3 4
+understanding
+data structures
+data structures.
+Data structures equal to faster set of
+data.
+operations
+dat
+4
+6.
+So,
+but
+Okay, so first
+Snickers
+1 2 3 4 5 6 7
+data structures.
+So that
+operation
+speedometer
+speedometer
+20 40 50 60 100 speedome
+data stctures
+different.
+Okay.
+Big O
+speedometer 0 25 80 100
+square
+log login.
+So big of n².
+So that data data structures and the
+bigo
+will make sense. Okay. So let's start
+first basic data structure.
+Okay.
+data structure. First
+same
+chocolain.
+data
+structure.
+Okay. First data
+structure
+first insertion
+already
+deletion
+set of elements.
+search.
+So third operation searching.
+Okay.
+in the process.
+Basically in the type of operations
+first.
+Okay.
+already
+four + 1.
+Okay.
+One. Okay.
+Fastest of one. Big goat
+Kit Kat
+already.
+Let's say 40
++ 1 41.
+Let's say one minute
+4400
+400.
+So time constant go of one it doesn't
+depend on number of data you have
+already set
+one
+second type of operation which is
+deletion. Okay.
+Okay.
+7 4 5
+Milky Kit Kat. Snickers
+of one.
+already.
+500.
+So in the deletion operation
+next operation. Okay. Searching.
+Okay.
+Seven, four, and then five. Okay. So,
+seven bar
+sneaker.
+Okay.
+Okay. maximum
+but actually let's assume
+okay
+Seven still.
+Okay.
+Okay.
+Second box.
+Third box.
+each and it
+dates
+popping.
+300.
+Okay.
+Okay. So understand
+first
+of
+constant time. Okay.
+Linear time.
+Okay. Speedometer
+of n².
+Okay. in the speedometer. First
+big of n²
+of one. Okay. Big of one
+of
+square.
+Okay.
+Okay.
+Big of n². Okay. It gets tricky. Okay.
+Constant time. Okay.
+of one of
+10 minutes
+but we go of n² square.
+Okay.
+Okay.
+Okay. So,
+A B Cand.
+Okay.
+Okay.
+Okay.
+Six handshakes.
+A
+so ac
+cot
+three handshakes. Okay. So aband
+three handshakes
+max=
+3=
+handshakes.
+Okay. Nakes.
+Okay. 1 2 3 4 5 6
+n handshakes.
+Handshakes equal to n minus one. Okay.
+Handshakes equal to nus one.
+Okay.
+handshake. So,
+so 10 into
+1 into 10us 1
+into 9. So total handshake n handshake
+10 into n.
+So 10 into 10 equal to
+100.
+and
+10 - 10 = 90. So total 90 handshakes
+3 into 3 - 1
+3. Okay. So three threes are 9
+- 3. So total handshake six handshakes.
+So, six and six.
+A C B A B C
+A
+C CB. Okay.
+Six handshakes, but six handshakes
+and
+actual handshake divided by two. Okay,
+three handshakes. So handshake
+final formula
+n into
+handshakes
+almost 45 handshakes. So concept of time
+45. Okay. So
+we go n squareus
+2. Okay.
+So
+45
+square
+of n square. Next
+we go of log n
+/ two. Okay.
+Okay.
+Exampleic.
+Okay.
+Cat ABC.
+So a
+complete
+set of
+divided by two set.
+Okay. So let's say 56 67 78 88 90 120
+Okay.
+Okay.
+Okay.
+90. So 90.
+Okay.
+So
+login.
+Speedometer
+type of speed.
+Billions of data handging
+the speed and efficiency of a data
+structure or an algorithm is called time
+complexity. So time complexity
+complexity.
+So what is algorithm?
+Okay. foreign
+steps.
+Okay.
+for
+step by step.
+First step,
+second step.
+Okay.
+5 10 55 60 20
+numbers. Okay.
+arrange. So
+okay.
+Okay.
+First step one
+check
+first box.
+First
+step two
+check second box.
+Okay.
+Third box. Fourth box. Fourth box.
+Linear search.
+Okay.
+linear search
+algorithm. So
+data stcture and then complexity
+data.
+Next
+type of dat
+list.
+First search
+bubble
+selection.
+So in the data structures and in the
+algorithms first data
+structures beginners
+amount of
+data structures start
+21 days. So early morning, early morning
+6 to 7 in the morning.
+First
+next data stctures and algorithms.
+See you next video. Bye-bye. Hey. Hi
+guys.
+last years
+TCS
+results
+They
+top mentors
+in the program
+free consultation call.
+All the very best for your career.
+Hey guys, welcome back to another video.
+particular problem.
+Step by step learn
+so that you can master the data
+stack data structure
+data structure.
+Let's get into the video.
+Step number one.
+So stack
+of books.
+So
+stack. Okay.
+1 2 3 4 5 6.
+Okay.
+Six book
+six book.
+Okay. So stack
+last in first out.
+1 2 3 4
+Last
+in the last
+out. Okay.
+Last in, first out. Last in, first out.
+Last in first out. Okay.
+So data
+structure
+data structure.
+Different
+pages.
+So first page
+secondage
+thirdage
+fourth page
+multiple pages
+button
+already.
+So last in first out
+fourth page
+back button
+third screen
+button.
+Second screen.
+First screen. Okay.
+First page. Second page. Third page.
+Fourth page. First back. Fourth page.
+Okay.
+Scenario.
+Step three. First step.
+Second step.
+Correct. in the stack.
+Forecture
+daten.
+So let's say
+so position 0 1 2 3
+page one page 2 page 3 page 4 page five
+Okay.
+Okay.
+Next.
+So, page fourage.
+page.
+Okay.
+Last in first out.
+Okay.
+So backage.
+Okay.
+Okay.
+Last in first
+data structures
+set of rules.
+Okay.
+follow.
+Students
+rules.
+for
+last video
+complexity.
+Let's say
+P1, P2, P3, P4, P5. Okay. So,
+complexity
+of N. Okay. Big of N.
+fourth
+of
+either way
+last
+one
+complexity
+complexity of one
+different data structures
+different
+Step four.
+code.
+Okay.
+Okay. So
+let's say P1 P2 P3 P4
+elements P1 P2 P3 P4 Okay
+1 2 3 Okay
+0 1 2 3 So zero question P1 P2
+P4
+four elements 1 2 3 4
+0 1 2 3 Okay.
+Okay. So in the browser screen already
+page five. in the browser screen
+already.
+P4.
+Okay.
+First
+element.
+Array of three
+array of two
+ind.
+So first last ind last index.
+So last index.
+So last
+index. Okay.
+Last element. Okay. So last element.
+Element. The last item. Last
+ind.
+Last index.
+Last index.
+Last ind.
+P4. P4. Super
+removing and display.
+Okay.
+So reduce size by one. Okay.
+Okay. So
+last indexal minus one.
+3 so 3 - 1 so last index 2 okay a r of
+last index a r of two last ind3
+okay so print removing last value
+so
+return last value last
+P3 and P3.
+Okay, so that's it.
+already.
+Okay.
+Step five.
+Okay. So start
+online.
+So yes.
+Okay. So a r equal to 10 20 30 40. Okay.
+Last element
+1 2 3 four pages fourth page already
+last index
+function function remove last element
+index
+indexal
+javascriptus
+last index
+equal to length minus one a length minus
+So
+last value.
+Okay. So last
+value equal to already index
+console.log log
+last.
+Let's wait.
+So
+program did not output anything
+last
+number output. Okay. So super 40 last
+by one
+JavaScript.
+Okay.
+for exampg
+already.
+Okay. So, console.log.
+Okay.
+Super
+element.
+return last value. Last value.
+Okay.
+So last value
+return last value. Okay. So last value.
+So just return
+last.
+Okay. So
+last
+First
+40 last value
+console.log last value.
+Okay.
+foreign
+last 14.
+So
+console.log
+40.
+Remove last
+10.
+Okay.
+First 30
+next
+20
+last empty.
+So
+empty.
+empty
+invalid array length.
+Okay. So,
+so maybe
+if
+a ar dot length
+A r.length
+equal to equal to zero. Length
+console.log
+array is empty.
+Just in the program
+is empty.
+So array is empty.
+So stack and then stack
+alternative
+function.
+Okay.
+Data structure learns
+fundamental of stacking.
+Okay.
+Full stack
+so far
+and complete implementation.
+So yeah uh with that we'll end this
+video. See you in next video guys.
+Bye-bye. Hey. Hi guys.
+students full development
+TCS
+results.
+Zoo, Infosys, PayPal,
+top mentors
+in the program.
+free consultation.
+All the very best for your career.
+Hey guys, welcome back to another video.
+Data structures and algorithms.
+So stack
+datation
+JavaScript
+JavaScript
+language comfortable data
+structure concept.
+Okay.
+So first
+book
+three
+Last in first out.
+Okay.
+Okay.
+So first foreign.
+Okay. So yeah first
+okay
+1 2 3 4+
+plus programming language.
+Okay. First
+JavaScript.
+Okay. So
+0 1 2 3 4.
+Okay.
+last
+five
+index.
+Last element.
+32 43 55.
+Okay. Last element last.
+Second element. Third element. Third
+element.
+compen
+1 2 3 four questions.
+Okay.
+Minus one.
+Okay.
+Zero position
+last.
+Okay.
+Zero position.
+Okay.
+First
+question.
+Already first.
+Third question.
+So
+last element
+index
+first element
+Second question.
+Okay.
+concept. Okay.
+Okay.
+JavaScript compal.
+Okay.
+So topus
+one.
+So function push.
+So function push
+first top equal to topus.
+So the top
+stack of equal sorry
+stack of topal.
+Okay.
+Okay. Okay.
+Perfect. First
+function pop.
+first
+line.
+So function
+already top.
+So
+remove
+stack of top. So already 10
+last 20
+stack of
+correct superalus.
+Okay.
+Re removed. Okay. So element remove.
+So first element push 10 20.
+Perfect.
+Okay. Empty stack.
+0 1 2 3 4 indus
+Top us
+top
+of top stack of top stack of zal
+Super 20
+already
+stack of top
+stack of one
+of
+Okay.
+Okay.
+Remove equal to stack of top.
+So stack of two.
+Okay. So remove.
+Okay. So remove
+storage. Perfect. topical topus.
+Okay. So,
+okay.
+already index
+top = topus one top= 2us one.
+Okay. and then return remove.
+Okay.
+Okay.
+Okay.
+Okay.
+efficient.
+So,
+okay.
+10
+console.log.
+So last element
+console.log vlog and then
+2013 because
+Okay.
+Function function stack
+function
+for i= i less than or equal to top i= i
++ 1. So in the loop
+t of i. Okay. So
+just print.
+Okay.
+result.
+So resultal
+plus
+stack of
+result is not defined. Okay.
+So resultal
+first
+10 20 30
+Yes. So
+that yeah.
+So 10 20 30
+function peak
+function peak. Okay. function
+function
+stack of top top.
+So console.log log.
+Super 10 20 30
+super
+moon major function. Okay.
+Okay.
+existing.
+So first
+return.
+Okay. So
+console.log
+still
+function.
+Okay. Done. So,
+so
+If topalus
+is
+Okay.
+Stack is empty.
+Okay. Super complete program.
+Okay.
+explain first. While true
+choiceal equal to
+Okay.
+Okay.
+Okay. As simple as that. So almost
+implementation. in the stack
+implementation.
+Regular at least five times.
+So
+full code
+and
+before we wind up this video.
+Hello.
+And then
+H E L Lack.
+Okay.
+H E L L Over.
+O L L E H.
+Okay.
+See you next video, guys. Bye-bye. Hey.
+Hi guys.
+last three years 8,000 students
+full
+ts
+theory classes
+mentors,
+top mentors
+in the program.
+free consultation call.
+All the very best for your career.
+Hey guys, welcome you all again to
+another video.
+forg.
+So
+first search
+oil
+firstflower
+for
+linear search.
+For example,
+So search binary search optimized
+version of linear search. Okay.
+First binary search.
+Okay. Binary searched
+array.
+Okay. Binary search
+mobile.
+Okay. First binary search
+comp.
+Okay.
+Okay, let's Hey
+first.
+Okay.
+Okay.
+Okay.
+22 37
+55
+28 9
+140
+number.
+Okay.
+Okay.
+Okay.
+55.
+Okay.
+Okay. Sorry.
+Okay.
+Okay.
+Complexity we go off login.
+for
+example.
+algorithm.
+Okay.
+So
+the letter A.
+Okay. Binary search
+equal to start plus end divided by two.
+Okay.
+Okay.
+2 7 123
+67
+90. Okay.
+Search number 67.
+Okay. 67
++ end
+index start index 0. Okay.
+Ind
+1 2 3 4 5
+index. Okay.
+mid =
+0 +
+5 / 2
+/ 2. So 1 2's are two 2's are 4. Okay.
+Two.
+0 1 2
+6.
+Okay. 67
+greater than 12.
+67 greater than 12. foreign.
+But this time
+last
+but
+okay.
+56
+start 56 index
+three
+start
+5 / 2
+8 /
+8 by 2.
+So 67.
+Okay.
+Practice
+step by step.
+Okay.
+92
+by start and end up 92.
+So step one.
+Okay. First start in a
+start equal to 0. 1 2 3 4
+start = 0.
+End = 4. Mid = 0 + 4 / 2. Mid equal to
+2. Okay. 012.
+So step two,
+step two
+equal to already mid + one up 3
+4
+which is 3 2 are
+Okay.
+Okay. Step
+three.
+Already mid + one. Already
+3 + 1 and end
+mid =
+4 + 4 / 2
+92.
+So first step, second step, third step,
+third step.
+equal to set of elements
+target
+length
+minus
+last value.
+Okay.
+While
+start
+less than or equal to end. Okay.
+end.
+Okay. Start.
+Okay.
+Okay.
+condition starts or equal to end.
+Okay.
+Start less than
+starts or equal to end.
+Mid equal to
+start plus end divided by 2. Okay.
+If
+Mid equal to equal to target
+element.
+pound.
+2 5 7 9 12.
+Okay. Starting
+ending which is 0 1 1 2 3 4 5 Okay
+1 2
+Okay
+Target.
+Else if
+array of mid
+less than target.
+Okay.
+Start
+equal to mid + 1. Start.
+Start
+in the scenario.
+Start.
+10
+15 22
+13
+40
+number
+15
+target 15 start 0 end 0 1 2 3 4 Okay
+2 2 0 1 2
+15
+$22.
+Okay.
+But instead last.
+Okay.
+else if
+array of mid
+greater than target.
+Okay.
+Target 15
+equal to midus one.
+Okay. So two or three questions.
+So
+one
+2 4 6 8 10. Okay.
+First
+start.
+Okay. So first
+equal to
+length of an array minus one. So length
+of an array 1 2 3 4 5 5 - 1 4
+length minus 1 end= 4
+while start less than or equal to end
+less than or equal to 4 in the condition
+true or false
+First mid equal to floor of start + n /
+2=
+start + n divided by 2. Okay. Wind equal
+start + end by 2 0 + 4
+/ 2
+4 / 2.5
+Okay, perfect.
+If array of mid equal to equal to
+target, return mid. If
+array of
+mid
+equal to equal to target. If array of 2
+equal to equal to 10
+returnal
+1 2 3 4 Okay.
+Start
+end
+two.
+So aral
+in the if condition work in the if
+condition
+false
+else if
+Okay.
+LCF
+array of mid less than target.
+Array of two
+less than target
+six. Okay. less than 10.
+False.
+True.
+If array of six less than 10 correct.
+Okay.
+Start equal to + 1.
+Start equal to
+mid + 1.
+Start
+already.
+2 + 1 3.
+Okay.
+Okay.
+Okay.
+Start.
+Okay.
+loop. Okay.
+While
+start less than or equal to end
+while
+less than or equal to end
+up start
+three less than or equal to end four. Is
+it true or false?
+Is it true?
+3 + 4 / 2 7 / 2 which is
+3. Okay.
+8
+less than 10.
+Start
+equal to
+mid + 1.
+Final answer start= 4, end = 4. So 4 + 4
+satisfy
+Target two.
+Okay.
+comfortable.
+for
+2
+6 8 10
+startal
+end equal to length minus one. So
+r.length minus one and then y loop
+create y loop start less than or equal
+to end. Okay. So the first condition
+starts or equal to end and then
+equal to
+start. Okay.
+And then
+Mac floor
+of mid equal to equal to equal to
+target.
+So
+console log
+number found index
+number found at index.
+else if
+less than. Okay. Let's say
+number
+six. Okay.
+Start position
+start equal to mid + 1. Okay.
+Mid less than
+target=
+mid + 1. Okay.
+Let's see.
+Okay.
+Perfect. Number four. 0 1 2 3 4.
+Okay.
+Okay.
+Hello.
+Hello. Hello.
+Okay.
+increase.
+Okay.
+Else
+of mid. Okay. Greater than targetus
+one.
+index
+break.
+Okay. So
+first
+and then
+okay
+searchary
+searchinary
+Search
+and
+see you next video. Bye-bye.
