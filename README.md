@@ -1,5 +1,5 @@
 ```markdown
-# 🎥 YouTube AI-Powered Tutor
+#  YouTube AI-Powered Tutor
 
 An AI-powered application that allows users to learn from YouTube videos by automatically extracting transcripts and answering questions about the video content using Retrieval-Augmented Generation (RAG) and Large Language Models (LLMs).
 
